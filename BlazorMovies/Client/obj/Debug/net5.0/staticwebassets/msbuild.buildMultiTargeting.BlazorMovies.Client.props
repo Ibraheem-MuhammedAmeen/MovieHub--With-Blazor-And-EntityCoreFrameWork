@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorMovies.Client.props" />
+</Project>
